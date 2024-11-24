@@ -9,6 +9,12 @@
 - Tailwind
 - Скрытие запросов под севреверной частью
 
+## До
+![IMAGE](image1.png "Image")
+
+## После
+![IMAGE](image2.png "Image")
+
 <!-- title: Тестовое задание -->
 <p>
     <h1 align="center">Тестовое задание VueJS</h1>
